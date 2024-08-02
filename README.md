@@ -31,3 +31,4 @@ This project involves developing the front-end interface for a Tours and Travels
 - **HTML**
 - **CSS**
 - **Bootstrap**
+- **JavaScript**
