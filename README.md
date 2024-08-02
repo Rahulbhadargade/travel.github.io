@@ -32,3 +32,12 @@ This project involves developing the front-end interface for a Tours and Travels
 - **CSS**
 - **Bootstrap**
 - **JavaScript**
+  
+## Installation
+To run this project locally, follow these steps:
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/Rahulbhadargade/travel.github.io.git
+   cd travel.github.io
